@@ -22,7 +22,10 @@ Also, I try to make some content on my blog so as to help new coding enthusiast 
 <p align="left">
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyash21&show_icons=true&locale=en" alt="gyash21" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyash21&" alt="gyash21" /></p>
+
 
 <!--
 **gyash21/gyash21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
